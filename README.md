@@ -2,7 +2,7 @@
 
 **ts2mp4** is a folder of scripts for converting, upscaling, and cropping `.ts` files to `.mp4` using `ffmpeg`.
 
-## Sort by Size for Correct Order
+## SORT FOLDER BY SIZE FOR CORRECT ORDER
 
 ## What These Scripts Do
 
